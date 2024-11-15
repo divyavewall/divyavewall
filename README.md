@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @divyavewall
-- 👀 I’m, exploring new things everyday
-- 🌱 I’m currently learning web development
-- 📫 Reach me at divyavewall28@gmail.com
-- 😄 Pronouns: She/Her
-
+- 👀 Curious Explorer: I’m always on the lookout to learn and try something new every day.
+- 🌱 Current Focus: Diving deep into web development and expanding my skills.
+- 📫 Let's Connect: Feel free to reach me at divyavewall28@gmail.com.
 
 <!---
 divyavewall/divyavewall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
